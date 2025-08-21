@@ -1,2 +1,2 @@
 # tweet-pulse
-A tweet visualization and sentimental analysis tool for Twitter, now known as X
+A visualization and sentiment analysis tool for tweets on X (formerly Twitter). Track emotions, trends, and insights with interactive charts and data-driven visuals.
